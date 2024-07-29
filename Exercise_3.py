@@ -1,3 +1,6 @@
+'''
+TC:
+'''
 class ListNode:
     """
     A node in a singly-linked list.
